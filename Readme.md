@@ -19,5 +19,7 @@
   - Student
   - Course   
 
+- These are designed using spring and hibernate.
+- The output file has been converted to JAR, for easy inclusion in projects.
 
 
